@@ -33,7 +33,6 @@ path=createSprite(width/2,200);
 path.addImage(pathImg);
 path.velocityY = 4;
 
-
 //creating boy running
 boy = createSprite(width/2,height-20,20,20);
 boy.addAnimation("SahilRunning",boyImg);
